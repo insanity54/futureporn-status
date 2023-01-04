@@ -3,11 +3,11 @@ owner: insanity54 # Your GitHub organization or username, where this repository 
 repo: futureporn-status # The name of this repository
 
 sites:
-  - name: Futureporn Frontend
+  - name: Frontend
     url: https://futureporn.net
     assignees:
     - insanity54
-  - name: Futureporn Backend
+  - name: Backend
     url: https://ipfs.sbtp.xyz/ipfs/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a
     assignees:
     - insanity54
@@ -18,16 +18,17 @@ status-website:
   cname: status.futureporn.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/insanity54/futureporn/main/website/favicon/favicon.png
-  name: Futureporn.net Status
-  introTitle: test 321
-  introMessage: test 123
+  name: Futureporn Status
+  introTitle: 
+  introMessage: 
   theme: dark
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/insanity54/futureporn
-
+      href: https://github.com/insanity54/futureporn-status
+    - title: Futureporn.net
+      href: https://futureporn.net
 
 
 
