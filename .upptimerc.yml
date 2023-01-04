@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/insanity54/futureporn/main/website/favicon/favicon.png
   name: Futureporn.net Status
-  introTitle: ""
+  introTitle: " "
   introMessage: 
   navbar:
     - title: Status
