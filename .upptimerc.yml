@@ -7,14 +7,11 @@ sites:
     url: https://futureporn.net
     assignees:
     - insanity54
-  - name: IPFS Gateway (Path)
+  - name: IPFS Gateway
     url: https://sbtp.xyz/ipfs/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a
     assignees:
     - insanity54
-  - name: IPFS Gateway (Subdomain)
-    url: https://bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a.ipfs.sbtp.xyz/
-    assignees:
-    - insanity54
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
