@@ -22,19 +22,19 @@
     "url": "https://sbtp.xyz/ipfs/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a",
     "icon": "https://icons.duckduckgo.com/ip3/sbtp.xyz.ico",
     "slug": "ipfs-gateway-path",
-    "status": "down",
-    "uptime": "7.53%",
-    "uptimeDay": "7.53%",
-    "uptimeWeek": "7.53%",
-    "uptimeMonth": "7.53%",
-    "uptimeYear": "7.53%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.12%",
+    "uptimeDay": "1.12%",
+    "uptimeWeek": "1.12%",
+    "uptimeMonth": "1.12%",
+    "uptimeYear": "1.12%",
+    "time": 767,
+    "timeDay": 767,
+    "timeWeek": 767,
+    "timeMonth": 767,
+    "timeYear": 767,
     "dailyMinutesDown": {
-      "2023-01-05": 0
+      "2023-01-05": 8
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a.ipfs.sbtp.xyz.ico",
     "slug": "ipfs-gateway-subdomain",
     "status": "down",
-    "uptime": "3.78%",
-    "uptimeDay": "3.78%",
-    "uptimeWeek": "3.78%",
-    "uptimeMonth": "3.78%",
-    "uptimeYear": "3.78%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-05": 0
+      "2023-01-05": 8
     }
   }
 ]
