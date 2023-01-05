@@ -22,18 +22,20 @@
     "url": "https://ipfs.sbtp.xyz/ipfs/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.sbtp.xyz.ico",
     "slug": "path-ipfs-gateway",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 450,
     "timeDay": 450,
     "timeWeek": 450,
     "timeMonth": 450,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-05": 0
+    }
   },
   {
     "name": "Subdomain IPFS Gateway",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a.ipfs.sbtp.xyz.ico",
     "slug": "subdomain-ipfs-gateway",
     "status": "down",
-    "uptime": "10.70%",
-    "uptimeDay": "10.70%",
-    "uptimeWeek": "10.70%",
-    "uptimeMonth": "10.70%",
-    "uptimeYear": "10.70%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-05": 0
+      "2023-01-05": 59
     }
   }
 ]
