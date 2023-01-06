@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 354,
+    "timeDay": 363,
     "timeWeek": 384,
     "timeMonth": 384,
     "timeYear": 384,
@@ -22,17 +22,19 @@
     "url": "https://sbtp.xyz/ipfs/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a",
     "icon": "https://icons.duckduckgo.com/ip3/sbtp.xyz.ico",
     "slug": "ipfs-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2899,
-    "timeDay": 2899,
-    "timeWeek": 2899,
-    "timeMonth": 2899,
-    "timeYear": 2899,
-    "dailyMinutesDown": {}
+    "time": 2076,
+    "timeDay": 2919,
+    "timeWeek": 2076,
+    "timeMonth": 2076,
+    "timeYear": 2076,
+    "dailyMinutesDown": {
+      "2023-01-06": 0
+    }
   }
 ]
