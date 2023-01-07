@@ -24,9 +24,9 @@
     "url": "https://sbtp.xyz/ipfs/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a",
     "icon": "https://icons.duckduckgo.com/ip3/sbtp.xyz.ico",
     "slug": "ipfs-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
@@ -36,6 +36,7 @@
     "timeMonth": 1320,
     "timeYear": 1320,
     "dailyMinutesDown": {
+      "2023-01-07": 0,
       "2023-01-06": 13
     }
   },
@@ -45,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbtp.xyz.ico",
     "slug": "ipfs-cluster",
     "status": "degraded",
-    "uptime": "6.52%",
-    "uptimeDay": "6.52%",
-    "uptimeWeek": "6.52%",
-    "uptimeMonth": "6.52%",
-    "uptimeYear": "6.52%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 122,
     "timeDay": 122,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2023-01-07": 0
+      "2023-01-07": 26
     }
   }
 ]
