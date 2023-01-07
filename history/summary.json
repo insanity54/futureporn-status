@@ -4,9 +4,9 @@
     "url": "https://futureporn.net",
     "icon": "https://icons.duckduckgo.com/ip3/futureporn.net.ico",
     "slug": "frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1285,
     "timeMonth": 1285,
     "timeYear": 1285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-07": 0
+    }
   },
   {
     "name": "IPFS Gateway",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbtp.xyz.ico",
     "slug": "ipfs-gateway",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.52%",
     "uptimeDay": "99.09%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 1473,
     "timeDay": 523,
     "timeWeek": 1473,
