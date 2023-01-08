@@ -12,8 +12,13 @@ sites:
     assignees:
     - insanity54
   - name: IPFS Cluster
-    url: https://sbtp.xyz/qc/v1/missing-pins
+    url: https://sbtp.xyz/qa/v1/missing-pins
     __dangerous__body_degraded_if_text_missing: '"complete":true'
+    assignees:
+    - insanity54
+  - name: Pin health
+    url: https://sbtp.xyz/qa/v1/pin-health
+    __dangerous__body_degraded_if_text_missing: '"healthy":true'
     assignees:
     - insanity54
 
