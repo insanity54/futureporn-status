@@ -57,7 +57,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-01-08": 1351,
+      "2023-01-08": 1352,
       "2023-01-07": 128
     }
   },
@@ -67,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbtp.xyz.ico",
     "slug": "pin-health",
     "status": "degraded",
-    "uptime": "13.43%",
-    "uptimeDay": "13.43%",
-    "uptimeWeek": "13.43%",
-    "uptimeMonth": "13.43%",
-    "uptimeYear": "13.43%",
+    "uptime": "3.84%",
+    "uptimeDay": "3.84%",
+    "uptimeWeek": "3.84%",
+    "uptimeMonth": "3.84%",
+    "uptimeYear": "3.84%",
     "time": 96,
     "timeDay": 96,
     "timeWeek": 96,
