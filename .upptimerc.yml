@@ -11,6 +11,13 @@ sites:
     url: https://sbtp.xyz/ipfs/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a
     assignees:
     - insanity54
+  - name: IPFS Cluster
+    url: https://sbtp.xyz:9094
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+      - 403
+    assignees:
+    - insanity54
   - name: Missing Pin Check
     url: https://sbtp.xyz/qa/v1/missing-pins
     __dangerous__body_degraded_if_text_missing: '"complete":true'
@@ -21,7 +28,6 @@ sites:
     __dangerous__body_degraded_if_text_missing: '"healthy":true'
     assignees:
     - insanity54
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
