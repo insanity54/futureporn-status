@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/futureporn.net.ico",
     "slug": "frontend",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 800,
     "timeDay": 286,
     "timeWeek": 800,
@@ -24,19 +24,19 @@
     "url": "https://sbtp.xyz/ipfs/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a",
     "icon": "https://icons.duckduckgo.com/ip3/sbtp.xyz.ico",
     "slug": "ipfs-gateway",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
     "time": 1022,
     "timeDay": 868,
     "timeWeek": 1022,
     "timeMonth": 1022,
     "timeYear": 1022,
     "dailyMinutesDown": {
-      "2023-01-09": 31,
+      "2023-01-09": 32,
       "2023-01-08": 13,
       "2023-01-07": 20,
       "2023-01-06": 13
@@ -99,7 +99,7 @@
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-01-09": 303
+      "2023-01-09": 414
     }
   }
 ]
