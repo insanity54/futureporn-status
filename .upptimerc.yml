@@ -15,7 +15,7 @@ sites:
     url: https://sbtp.xyz:9094
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
-      - 403
+      - 401
     assignees:
     - insanity54
   - name: Missing Pin Check
