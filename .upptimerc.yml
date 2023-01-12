@@ -18,12 +18,12 @@ sites:
       - 401
     assignees:
     - insanity54
-  - name: Missing Pin Check
+  - name: Pin Inclusion
     url: https://sbtp.xyz/qa/v1/missing-pins
     __dangerous__body_degraded_if_text_missing: '"complete":true'
     assignees:
     - insanity54
-  - name: Pin Health Check
+  - name: Pin Health
     url: https://sbtp.xyz/qa/v1/pin-health
     __dangerous__body_degraded_if_text_missing: '"healthy":true'
     assignees:
