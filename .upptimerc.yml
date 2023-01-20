@@ -7,12 +7,15 @@ sites:
     url: https://futureporn.net
     assignees:
     - insanity54
-  - name: IPFS Gateway
-    url: https://sbtp.xyz/ipfs/bafkreigq6feyiv27wth74575cutr5gzhigna6gehois2fyw24bzk7nbk4a
+  - name: IPFS Cluster 1
+    url: https://38.242.216.6:9094
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 401
     assignees:
     - insanity54
-  - name: IPFS Cluster
-    url: https://sbtp.xyz:9094
+  - name: IPFS Cluster 2
+    url: https://45.32.201.82:9094
     __dangerous__insecure: true
     expectedStatusCodes:
       - 401
