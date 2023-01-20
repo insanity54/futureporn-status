@@ -1,7 +1,7 @@
 url: https://sbtp.xyz/qa/v1/pin-health
-status: degraded
+status: up
 code: 200
-responseTime: 1316
-lastUpdated: 2023-01-20T06:32:03.487Z
+responseTime: 2870
+lastUpdated: 2023-01-20T06:52:51.255Z
 startTime: Thu Jan 12 2023 00:45:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
