@@ -32,7 +32,7 @@ sites:
     assignees:
     - insanity54
     headers:
-    - "Authorization: Bearer $QA_AUTH_TOKEN"
+    - "Authorization: Basic $QA_AUTH_TOKEN"
     - "Content-Type: application/json"
 
 status-website:
