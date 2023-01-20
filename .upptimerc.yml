@@ -31,6 +31,9 @@ sites:
     __dangerous__body_degraded_if_text_missing: '"healthy":true'
     assignees:
     - insanity54
+    headers:
+    - "Authorization: Bearer $QA_AUTH_TOKEN"
+    - "Content-Type: application/json"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
