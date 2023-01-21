@@ -7,14 +7,14 @@ sites:
     url: https://futureporn.net
     assignees:
     - insanity54
-  - name: IPFS Cluster 1
+  - name: IPFS Cluster Peer 1
     url: https://38.242.216.6:9094
     __dangerous__insecure: true
     expectedStatusCodes:
       - 401
     assignees:
     - insanity54
-  - name: IPFS Cluster 2
+  - name: IPFS Cluster Peer 2
     url: https://45.32.201.82:9094
     __dangerous__insecure: true
     expectedStatusCodes:
@@ -24,6 +24,7 @@ sites:
   - name: Pin Inclusion
     url: https://sbtp.xyz/qa/v1/missing-pins
     __dangerous__body_degraded_if_text_missing: '"complete":true'
+    maxResponseTime: 5000
     assignees:
     - insanity54
     headers:
@@ -32,6 +33,7 @@ sites:
   - name: Pin Health
     url: https://sbtp.xyz/qa/v1/pin-health
     __dangerous__body_degraded_if_text_missing: '"healthy":true'
+    maxResponseTime: 5000
     assignees:
     - insanity54
     headers:
