@@ -44,16 +44,7 @@ sites:
     - "Authorization: Basic $QA_AUTH_TOKEN"
     - "Content-Type: application/json"
     
-  - name: Capture 1 Service
-    url: $CAPTURE_1_SERVICE
-    assignees:
-    - insanity54
 
-  - name: Capture 2 Service
-    url: http://sbtp.xyz:9100/metrics
-    __dangerous__body_degraded_if_text_missing: 'node_systemd_unit_state{name="capture.service",state="active",type="simple"} 1'
-    assignees:
-    - insanity54
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
