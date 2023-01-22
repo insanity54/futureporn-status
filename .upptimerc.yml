@@ -7,6 +7,7 @@ sites:
     url: https://futureporn.net
     assignees:
     - insanity54
+    
   - name: IPFS Cluster Peer 1
     url: https://38.242.216.6:9094
     __dangerous__insecure: true
@@ -14,6 +15,7 @@ sites:
       - 401
     assignees:
     - insanity54
+    
   - name: IPFS Cluster Peer 2
     url: https://45.32.201.82:9094
     __dangerous__insecure: true
@@ -21,6 +23,7 @@ sites:
       - 401
     assignees:
     - insanity54
+    
   - name: Pin Inclusion
     url: https://sbtp.xyz/qa/v1/missing-pins
     __dangerous__body_degraded_if_text_missing: '"complete":true'
@@ -30,6 +33,7 @@ sites:
     headers:
     - "Authorization: Basic $QA_AUTH_TOKEN"
     - "Content-Type: application/json"
+    
   - name: Pin Health
     url: https://sbtp.xyz/qa/v1/pin-health
     __dangerous__body_degraded_if_text_missing: '"healthy":true'
@@ -39,6 +43,16 @@ sites:
     headers:
     - "Authorization: Basic $QA_AUTH_TOKEN"
     - "Content-Type: application/json"
+
+  - name: Capture 1 Disk
+    url: $CAPTURE_1_DISK
+    assignees:
+    - insanity54
+    
+  - name: Capture 1 Service
+    url: $CAPTURE_1_SERVICE
+    assignees:
+    - insanity54
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
