@@ -34,15 +34,15 @@ sites:
     - "Authorization: Basic $QA_AUTH_TOKEN"
     - "Content-Type: application/json"
     
-  - name: Pin Health
-    url: https://sbtp.xyz/qa/v1/pin-health
-    __dangerous__body_degraded_if_text_missing: '"healthy":true'
-    maxResponseTime: 5000
-    assignees:
-    - insanity54
-    headers:
-    - "Authorization: Basic $QA_AUTH_TOKEN"
-    - "Content-Type: application/json"
+#  - name: Pin Health
+#    url: https://sbtp.xyz/qa/v1/pin-health
+#    __dangerous__body_degraded_if_text_missing: '"healthy":true'
+#    maxResponseTime: 5000
+#    assignees:
+#    - insanity54
+#    headers:
+#    - "Authorization: Basic $QA_AUTH_TOKEN"
+#    - "Content-Type: application/json"
     
 
 
