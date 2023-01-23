@@ -11,8 +11,8 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
     "time": 530,
-    "timeDay": 110,
-    "timeWeek": 387,
+    "timeDay": 305,
+    "timeWeek": 394,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 641,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "time": 557,
+    "timeDay": 649,
+    "timeWeek": 557,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 232,
-    "timeDay": 250,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "time": 236,
+    "timeDay": 257,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2023-01-22": 8
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbtp.xyz.ico",
     "slug": "pin-inclusion",
     "status": "up",
-    "uptime": "41.69%",
+    "uptime": "41.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "52.78%",
-    "uptimeMonth": "41.69%",
-    "uptimeYear": "41.69%",
-    "time": 1805,
-    "timeDay": 1043,
-    "timeWeek": 1661,
-    "timeMonth": 1805,
-    "timeYear": 1805,
+    "uptimeWeek": "53.11%",
+    "uptimeMonth": "41.80%",
+    "uptimeYear": "41.80%",
+    "time": 1932,
+    "timeDay": 2502,
+    "timeWeek": 1814,
+    "timeMonth": 1932,
+    "timeYear": 1932,
     "dailyMinutesDown": {
       "2023-01-22": 8,
       "2023-01-20": 326,
@@ -85,32 +85,6 @@
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1014
-    }
-  },
-  {
-    "name": "Pin Health",
-    "url": "https://sbtp.xyz/qa/v1/pin-health",
-    "icon": "https://icons.duckduckgo.com/ip3/sbtp.xyz.ico",
-    "slug": "pin-health",
-    "status": "up",
-    "uptime": "93.89%",
-    "uptimeDay": "83.19%",
-    "uptimeWeek": "92.97%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "93.89%",
-    "time": 1467,
-    "timeDay": 1599,
-    "timeWeek": 1481,
-    "timeMonth": 1467,
-    "timeYear": 1467,
-    "dailyMinutesDown": {
-      "2023-01-23": 242,
-      "2023-01-22": 195,
-      "2023-01-21": 118,
-      "2023-01-20": 157,
-      "2023-01-12": 34,
-      "2023-01-09": 215,
-      "2023-01-08": 89
     }
   }
 ]
