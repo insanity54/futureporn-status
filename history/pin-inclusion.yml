@@ -1,7 +1,7 @@
 url: https://sbtp.xyz/qa/v1/missing-pins
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2023-01-25T08:16:51.979Z
+status: up
+code: 200
+responseTime: 3462
+lastUpdated: 2023-01-25T08:32:48.553Z
 startTime: Thu Jan 12 2023 00:45:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
