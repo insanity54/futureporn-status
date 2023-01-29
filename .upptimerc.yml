@@ -24,15 +24,15 @@ sites:
     assignees:
     - insanity54
     
-  - name: Pin Inclusion
-    url: https://sbtp.xyz/qa/v1/missing-pins
-    __dangerous__body_degraded_if_text_missing: '"complete":true'
-    maxResponseTime: 5000
-    assignees:
-    - insanity54
-    headers:
-    - "Authorization: Basic $QA_AUTH_TOKEN"
-    - "Content-Type: application/json"
+#   - name: Pin Inclusion
+#     url: https://sbtp.xyz/qa/v1/missing-pins
+#     __dangerous__body_degraded_if_text_missing: '"complete":true'
+#     maxResponseTime: 5000
+#     assignees:
+#     - insanity54
+#     headers:
+#     - "Authorization: Basic $QA_AUTH_TOKEN"
+#     - "Content-Type: application/json"
     
 #  - name: Pin Health
 #    url: https://sbtp.xyz/qa/v1/pin-health
