@@ -8,14 +8,14 @@ sites:
     assignees:
     - insanity54
 
- 
-  - name: IPFS Cluster
-    url: https://sbtp.xyz:9094
-    __dangerous__insecure: true
-    expectedStatusCodes:
-      - 401
-    assignees:
-    - insanity54
+# too many false positives when a cluster node is busy but not down
+#   - name: IPFS Cluster
+#     url: https://sbtp.xyz:9094
+#     __dangerous__insecure: true
+#     expectedStatusCodes:
+#       - 401
+#     assignees:
+#     - insanity54
     
     
 #   - name: Pin Inclusion
