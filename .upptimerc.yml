@@ -13,6 +13,11 @@ sites:
     __dangerous__insecure: true
     expectedStatusCodes:
       - 401
+      
+  - name: API v1
+    url: https://futureporn.net/api/v1.json
+    assignees:
+    - insanity54
 
     
     
