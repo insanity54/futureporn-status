@@ -20,6 +20,10 @@ sites:
     assignees:
     - insanity54
 
+  - name: IPFS Cluster Service Template
+    url: https://futureporn.net/api/service.json
+    assignees:
+    - insanity54
     
     
 #   - name: Pin Inclusion
