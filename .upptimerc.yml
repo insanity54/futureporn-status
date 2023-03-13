@@ -8,12 +8,27 @@ sites:
     assignees:
     - insanity54
 
-  - name: IPFS Cluster
-    url: https://sbtp.xyz:9094
+  - name: Patron-only IPFS Gateway
+    url: https://gw.futureporn.net
+
+  - name: IPFS Cluster Node ipfs-cluster2
+    url: https://45.32.201.82:9094
     __dangerous__insecure: true
     expectedStatusCodes:
       - 401
-      
+
+  - name: IPFS Cluster Node T1M5
+    url: https://45.32.210.20:9094
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 401
+
+  - name: IPFS Cluster Node baba
+    url: https://38.242.216.6:9094
+    __dangerous__insecure: true
+    expectedStatusCodes:
+      - 401
+
   - name: API v1
     url: https://futureporn.net/api/v1.json
     __dangerous__body_down_if_text_missing: 'https://twitter.com/ProjektMelody/status/1226319848411717632'
